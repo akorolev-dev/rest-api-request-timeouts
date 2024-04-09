@@ -1,0 +1,3 @@
+services:
+  warehouse:
+    base-url: http://${WAREHOUSE_HOST:localhost}:${WAREHOUSE_PORT}

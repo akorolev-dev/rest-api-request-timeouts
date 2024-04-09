@@ -1,0 +1,5 @@
+Analysis of request timeouts for Spring REST API.
+Copyright 2024 Aleksei Korolev
+
+This product is developed based on Spring Boot [Apache-2.0 license; https://github.com/spring-projects/spring-boot].
+The tests use Java Microbenchmark Harness (JMH) [GPL-2.0 license; https://github.com/openjdk/jmh].
